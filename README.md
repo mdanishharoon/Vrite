@@ -1,6 +1,6 @@
 
 
-# ✍️ Vrite – Collaborative Text Editor
+# Vrite – Collaborative Text Editor
 
 **Vrite** is a modern full-stack collaborative text editor built with **Next.js**, powered by **Tiptap**, **Liveblocks**, **Convex**, and **Clerk**. Designed for real-time collaboration, authentication, and cloud persistence — Vrite brings seamless team writing and editing to the web.
 
@@ -9,13 +9,13 @@
 
 ## 🚀 Features
 
-- 🔐 **Authentication** – Secure user auth via [Clerk](https://clerk.dev/)
-- 📝 **Rich Text Editing** – Feature-rich editor powered by [Tiptap](https://tiptap.dev/)
-- 🤝 **Real-Time Collaboration** – Live cursors and editing using [Liveblocks](https://liveblocks.io/)
-- ☁️ **Serverless Backend** – Blazing fast & reactive storage with [Convex](https://www.convex.dev/)
-- ⚡ **Full-stack Next.js App** – Built with App Router and modern best practices
-- 📂 **Multiple Documents** – Create, edit, and organize documents per user
-- 💾 **Auto-save** – Persist document changes instantly in the cloud
+-  **Authentication** – Secure user auth via [Clerk](https://clerk.dev/)
+-  **Rich Text Editing** – Feature-rich editor powered by [Tiptap](https://tiptap.dev/)
+-  **Real-Time Collaboration** – Live cursors and editing using [Liveblocks](https://liveblocks.io/)
+-  **Serverless Backend** – Blazing fast & reactive storage with [Convex](https://www.convex.dev/)
+-  **Full-stack Next.js App** – Built with App Router and modern best practices
+-  **Multiple Documents** – Create, edit, and organize documents per user
+-  **Auto-save** – Persist document changes instantly in the cloud
 
 ---
 
